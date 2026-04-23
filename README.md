@@ -9,5 +9,3 @@ Built and shipped 3 apps solo:
 - **SaveToExo** — personal knowledge base ([savetoexo.com](https://savetoexo.com))
 
 Now building [CiteGap](https://citegap.com), helping brands increase their Share of Voice on AI Search.
-
-[Twitter](https://x.com/dash_third) · [LinkedIn](https://linkedin.com/in/dashthird) · [Substack](https://dashthird.substack.com)
