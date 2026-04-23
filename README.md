@@ -2,7 +2,7 @@
 
 ex-Amazon Principal Product Manager (Tech). 10+ years. IIM Ahmedabad.
 
-Built and shipped 3 apps solo — [CalWise](https://play.google.com/store/apps/details?id=com.calwise.app) (calorie tracker) · [KidCompass](https://kidcompass.in) (parenting) · [SaveToExo](https://savetoexo.com) (personal knowledge base).
+Built and shipped 3 apps solo — CalWise ([iOS](https://apps.apple.com/in/app/calwise-ai-calorie-tracker/id6754014289) · [Android](https://play.google.com/store/apps/details?id=com.yourcompany.calwise)) · KidCompass ([iOS](https://apps.apple.com/in/app/kidcompass-screen-free-fun/id6754037688) · [Android](https://play.google.com/store/apps/details?id=in.kidcompass.twa)) · [SaveToExo](https://savetoexo.com) (personal knowledge base).
 
 Now building [CiteGap](https://citegap.com), helping brands increase their Share of Voice on AI Search.
 
